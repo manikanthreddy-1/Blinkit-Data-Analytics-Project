@@ -220,13 +220,12 @@ Overall, the project demonstrates how data analytics can support revenue growth,
 ![Customer Operations Dashboard](Screenshots/Screenshot%202026-08-14%20144810.png)
 
 ### Marketing & Customer Insights Dashboard
-![Marketing Dashboard](Screenshots/Screenshot%202026-08-14%20145536.png)
-
+![Marketing Dashboard](Screenshots/Screenshot%202026-08-14%20172055.png)
 ---
 
 ## 👨‍💻 Author
 
-**Manikanth Reddy Damma**
+**ManikanthReddy Damma**
 
 Aspiring Data Analyst skilled in Python, SQL, Excel, and Power BI.
 
