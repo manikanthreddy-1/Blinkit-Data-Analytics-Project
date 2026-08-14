@@ -235,3 +235,19 @@ LinkedIn: https://www.linkedin.com/in/manikanthreddy-damma/
 
 ---
 ⭐ If you found this project useful, consider giving it a star.
+
+---
+
+
+
+## 📁 Project Files
+
+### Power BI Dashboard
+
+Power BI (.pbix) File:
+[https://drive.google.com/file/d/1F7vbLJEK2kbEpO8g4NYPU9cNNtVSESFo/view?usp=drive_link]
+
+### Project Presentation
+
+Project Presentation (.pptx) File:
+[https://docs.google.com/presentation/d/1cmbEPFk9ynLZehc4ULtoj7Cq5q-CO34h/edit?usp=drive_link&ouid=104391256011472999435&rtpof=true&sd=true]
