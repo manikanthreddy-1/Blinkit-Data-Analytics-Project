@@ -231,7 +231,7 @@ Aspiring Data Analyst skilled in Python, SQL, Excel, and Power BI.
 
 GitHub: https://github.com/manikanthreddy-1
 
-LinkedIn: Add Your LinkedIn Profile Link
+LinkedIn: https://www.linkedin.com/in/manikanthreddy-damma/
 
 ---
 ⭐ If you found this project useful, consider giving it a star.
