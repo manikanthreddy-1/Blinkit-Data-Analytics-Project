@@ -208,24 +208,19 @@ Marketing campaigns generated ₹32.19M in revenue, while the Referral Program a
 Overall, the project demonstrates how data analytics can support revenue growth, operational efficiency, customer satisfaction, and marketing effectiveness.
 
 ---
-
-## 📷 Dashboard Screenshots
+## 📊 Dashboard Screenshots
 
 ### Executive Summary Dashboard
-
-(Add Screenshot Here)
+![Executive Summary](Screenshots/Screenshot%202026-08-14%20144658.png)
 
 ### Sales Performance Dashboard
-
-(Add Screenshot Here)
+![Sales Dashboard](Screenshots/Screenshot%202026-08-14%20144731.png)
 
 ### Customer & Operations Dashboard
-
-(Add Screenshot Here)
+![Customer Operations Dashboard](Screenshots/Screenshot%202026-08-14%20144810.png)
 
 ### Marketing & Customer Insights Dashboard
-
-(Add Screenshot Here)
+![Marketing Dashboard](Screenshots/Screenshot%202026-08-14%20145536.png)
 
 ---
 
